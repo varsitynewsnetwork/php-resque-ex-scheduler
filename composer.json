@@ -26,6 +26,12 @@
 		"source": "https://github.com/kamisama/php-resque-ex-scheduler"
 	},
 	"require": {
-		"kamisama/php-resque-ex": ">=1.2.1"
-	}
+		"kamisama/php-resque-ex": "dev-master"
+	},
+	"repositories": [
+        	{
+		    "type": "vcs",
+		    "url":  "https://github.com/varsitynewsnetwork/php-resque-ex.git"
+		}
+	]
 }
