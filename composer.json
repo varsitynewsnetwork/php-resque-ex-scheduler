@@ -26,7 +26,7 @@
 		"source": "https://github.com/kamisama/php-resque-ex-scheduler"
 	},
 	"require": {
-		"kamisama/php-resque-ex": "dev-master"
+		"kamisama/php-resque-ex": "dev-version-1.3.0-with-monolog-2"
 	},
 	"repositories": [
         	{
